@@ -4,7 +4,7 @@
 name: 'gatsbyjs'
 
 # The type key specifies the language and version for your application.
-type: 'nodejs:8.9'
+type: 'nodejs:10'
 
 # The hooks that will be triggered when the package is deployed.
 hooks:
